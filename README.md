@@ -1,6 +1,6 @@
 # Word order correction
 
-This repository contains Python code for correction some common types of subject-predicate order errors. They include interrogative word order, standard word order in indirect questions, standard  word order in independent clauses and others.
+This repository contains Python code for correcting some common types of subject-predicate order errors. They include interrogative word order, standard word order in indirect questions, standard  word order in independent clauses, and others.
 
 Dependencies:
 
